@@ -1,8 +1,8 @@
 ## Hi there 👋
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgyukimgood&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namgyukimgood)](https://solved.ac/namgyukimgood)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namgyukimgood&layout=Demo&theme=cobalt)
-1
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namgyukimgood&layout=compact&theme=cobalt)
+
 
 <!--
 **namgyukimgood/namgyukimgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
