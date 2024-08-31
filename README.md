@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/><img src="https://img.shields.io/badge/JAVASCRIPT-150458?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/><img src="https://img.shields.io/badge/HTML-150458?style=for-the-badge&logo=HTML&logoColor=white"/>
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgyukimgood&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namgyukimgood)](https://solved.ac/namgyukimgood)
